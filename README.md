@@ -8,6 +8,6 @@ and allow for the sides to be filled with a color that supports the image.
 
 Video tool takes multiple (or a single) music files, concatenates them and generates a video the length of the album.
 It also creates timestamps designating the start time of each file within the album.
------------------------------------------------------------------------------------------
 
-Run mainMenu.py
+
+1. Run mainMenu.py

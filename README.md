@@ -11,3 +11,8 @@ It also creates timestamps designating the start time of each file within the al
 
 
 1. Run mainMenu.py
+
+![videotool](https://user-images.githubusercontent.com/65625146/119890463-7db5c580-befd-11eb-8fff-f9d6bdd9b410.JPG)
+![covertool](https://user-images.githubusercontent.com/65625146/119890460-7db5c580-befd-11eb-8d37-39ac329f8488.JPG)
+
+
